@@ -4,7 +4,7 @@
      <Children>
                   <EffectChainPresetSelector>
                     <ObjectName>QuickEffectSelectorLeft</ObjectName>
-                    <EffectUnitGroup>[QuickEffectRack1_[Channel2]]</EffectUnitGroup>
+                    <EffectUnitGroup>[QuickEffectRack2_[Channel2]]</EffectUnitGroup>
                   </EffectChainPresetSelector>
                 <Connection>
                   <ConfigKey persist="true">[Skin],show_eq_knobs</ConfigKey>
